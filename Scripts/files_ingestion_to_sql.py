@@ -7,7 +7,7 @@ from mysql.connector import Error
 
 
 username = 'root'             # Replace with your MySQL username
-password = 'legend@07'        # Replace with your MySQL password
+password = 'legXXd@07'        # Replace with your MySQL password
 host = '127.0.0.1'            # MySQL host (e.g., 'localhost' or '127.0.0.1')
 port = '3306'                 # MySQL port (default is 3306)
 database = 'bronze'           # Your database name
