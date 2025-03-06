@@ -10,6 +10,7 @@ Data Modeling: Constructing fact and dimension tables optimized for efficient an
 Analytics & Reporting: Developing SQL-based reports and dashboards to generate actionable insights for decision-making.
 
 Flow,
+
 Designed the data architecture following the Medallion approach, implementing Bronze, Silver, and Gold layers for structured data processing.
 
 1- Bronze Layer: The raw data ingestion layer stores unprocessed data directly from source systems, used Python. Data is ingested from CSV files into a SQL Server database.
